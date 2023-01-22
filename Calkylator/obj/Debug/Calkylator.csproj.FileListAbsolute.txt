@@ -1,0 +1,11 @@
+C:\Users\Athlon\source\repos\Calkylator\Calkylator\bin\Debug\Calkylator.exe.config
+C:\Users\Athlon\source\repos\Calkylator\Calkylator\bin\Debug\Calkylator.exe
+C:\Users\Athlon\source\repos\Calkylator\Calkylator\bin\Debug\Calkylator.pdb
+C:\Users\Athlon\source\repos\Calkylator\Calkylator\obj\Debug\Calkylator.csproj.AssemblyReference.cache
+C:\Users\Athlon\source\repos\Calkylator\Calkylator\obj\Debug\Calkylator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Athlon\source\repos\Calkylator\Calkylator\obj\Debug\Calkylator.Form1.resources
+C:\Users\Athlon\source\repos\Calkylator\Calkylator\obj\Debug\Calkylator.Properties.Resources.resources
+C:\Users\Athlon\source\repos\Calkylator\Calkylator\obj\Debug\Calkylator.csproj.GenerateResource.cache
+C:\Users\Athlon\source\repos\Calkylator\Calkylator\obj\Debug\Calkylator.csproj.CoreCompileInputs.cache
+C:\Users\Athlon\source\repos\Calkylator\Calkylator\obj\Debug\Calkylator.exe
+C:\Users\Athlon\source\repos\Calkylator\Calkylator\obj\Debug\Calkylator.pdb
